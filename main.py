@@ -15,7 +15,7 @@ from data_loader import DataLoader
 from trainer import Trainer
 from evaluator import Evaluator
 from logger import Logger
-
+#prueba
 from fid_utils import fid
 
 def precompute_parameters(config):
